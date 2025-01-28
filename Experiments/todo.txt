@@ -1,0 +1,5 @@
+TODO:
+
+- Change optimizer to a non stochastic version. (Regular GD with decaying rate?)
+- Visualization of loss minima with different starting points for the GD (verify that the argmin are indeed different)
+- Modify dataset creation to ensure (or prevent) that sigma, XX^T are full rank
