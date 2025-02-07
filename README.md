@@ -1,0 +1,1 @@
+This repository contains code to experimentally test Theorem 2.3 from *Deep Learning without Poor Local Minima* by Kenji Kawaguchi. The main notebook is located in *Experiments/LinearNetworkExperiments.ipynb*, while the other experiment notebooks are slight variations of it.
